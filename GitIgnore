@@ -1,3 +1,5 @@
+#Linux
+
 *~
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -15,6 +17,7 @@
 # Log files created by default by the nohup command
 nohup.out
 
+#VS CODE
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
